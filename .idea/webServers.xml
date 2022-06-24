@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f2fdb6d3-ac80-4349-ada0-4b2e327c27de" name="NAMAS-WP-STAGING" url="https://namastatestg.wpengine.com/">
+        <fileTransfer accessType="SFTP" host="namastatestg.sftp.wpengine.com" port="2222" sshConfigId="66b99e5e-8ac2-489a-8de6-ced8f824b0a2" sshConfig="namastatestg-manny@namastatestg.sftp.wpengine.com:2222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="1d969841-3ebd-494a-a876-1be6963fdd7f" name="NAMAS-DEV" url="http://namastatedev.wpenginepowered.com">
+        <fileTransfer accessType="SFTP" host="namastatedev.sftp.wpengine.com" port="2222" sshConfigId="cf9042cf-2987-40eb-bab2-f8334525bf7b" sshConfig="namastatedev-mannydev@namastatedev.sftp.wpengine.com:2222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

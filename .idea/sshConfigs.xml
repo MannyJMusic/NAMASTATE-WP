@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="namastatestg.sftp.wpengine.com" id="66b99e5e-8ac2-489a-8de6-ced8f824b0a2" port="2222" nameFormat="DESCRIPTIVE" username="namastatestg-manny" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="namastatedev.sftp.wpengine.com" id="cf9042cf-2987-40eb-bab2-f8334525bf7b" port="2222" nameFormat="DESCRIPTIVE" username="namastatedev-mannydev" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
